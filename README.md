@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" alt="Dharma Chakra Spinning" width="120" />
+
 
   <h1>Lithira | Adapting to the Web & Mobile Landscape</h1>
 
