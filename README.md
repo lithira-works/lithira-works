@@ -24,8 +24,6 @@ I am an Undergraduate Developer and AI/ML & Mobile App Intern at **SLT-MOBITEL**
 
 ### 🗄️ The Ten Shadows (Tech Arsenal)
 
-### 🗄️ The Ten Shadows (Tech Arsenal)
-
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
